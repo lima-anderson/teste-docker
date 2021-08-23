@@ -14,11 +14,11 @@ https://labs.play-with-docker.com/
 
 #### 1.3 Faça o clone esse repositório:
 ```
-git clone https://github.com/lima-anderson/aplicacao-docker.git
+git clone https://github.com/lima-anderson/teste-docker.git
 ```
 #### 1.4. Entre na pasta:
 ```
-cd aplicação
+cd teste-docker
 ```
 #### 1.5. Altere a permissão do script:
 ```
