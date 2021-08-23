@@ -1,6 +1,8 @@
-### Desafio Devops 
+## Desafio Devops 
 
 #### O objetivo desse desafio é criar uma infraestrutura usando Docker provendo um servidor Web/PHP e um servidor MySQL.
+
+### Instruções necessárias para execução do projeto:
 
 #### 1.1 Acesse a página abaixo e faça login:
 
