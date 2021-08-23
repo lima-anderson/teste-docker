@@ -44,3 +44,6 @@ Conexão falhou:
 Connection refused
 ```
 Se aparecer espere alguns segundos e atualize a página.
+
+
+###![Solução](https://www.google.com/)
